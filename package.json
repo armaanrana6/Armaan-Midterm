@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rhildred/abtest.git"
+    "url": "git+https://github.com/armaanrana6/abtest.git"
   },
   "keywords": [
     "node",
@@ -18,12 +18,12 @@
     "problem",
     "solving"
   ],
-  "author": "Rich Hildred",
+  "author": "Armaan Rana",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rhildred/abtest/issues"
+    "url": "https://github.com/armaanrana6/abtest/issues"
   },
-  "homepage": "https://github.com/rhildred/abtest#readme",
+  "homepage": "https://github.com/armaanrana6/abtest#readme",
   "dependencies": {
     "express": "*",
     "express-session": "*",
