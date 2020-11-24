@@ -1,4 +1,4 @@
-# <a href="https://github.com/armaanrana6/Armaan-Midterm/blob/master/index.js" target="_blank">Midterm Test 1 - 5 Pages</a>
+# <a href="https://github.com/armaanrana6/Armaan-Midterm/blob/master/index.js" target="_blank">Midterm</a>
 
 
 Employment Check Survey.
