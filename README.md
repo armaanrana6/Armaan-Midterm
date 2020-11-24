@@ -19,3 +19,11 @@ Employment Check Survey.
 3.Google Analytics...
 <img src = "S5.png">
 
+link github
+
+<a href="https://armaanrana6.github.io/Armaan-Midterm/">
+
+link heroku
+
+<a href="https://screeningcheck-midterm-armaan.herokuapp.com/">
+
